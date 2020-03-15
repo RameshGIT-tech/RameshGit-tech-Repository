@@ -1,2 +1,3 @@
-this is my first file.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+this is my first file.
 welcome to git.
+Adding in master branch
